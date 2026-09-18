@@ -20,7 +20,11 @@
 
 </div>
 
----
+<div align="center">
+  <img src="./assets/red-black-flow-divider-fast.svg"
+       width="100%"
+       alt="Animated red and black cyber divider"/>
+</div>
 
 ## `> about_me`
 ```javascript
@@ -33,12 +37,20 @@ const tushar = {
 };
 ```
 
----
+<div align="center">
+  <img src="./assets/red-black-flow-divider-fast.svg"
+       width="100%"
+       alt="Animated red and black cyber divider"/>
+</div>
 
 ## `> tech_stack`
 <div align="center"><img src="https://skillicons.dev/icons?i=java,js,python,c,react,nextjs,html,css,tailwind,nodejs,express,flask,mongodb,postgres,prisma,flutter,kotlin,git,docker,aws,figma&perline=11" /></div>
 
----
+<div align="center">
+  <img src="./assets/red-black-flow-divider-fast.svg"
+       width="100%"
+       alt="Animated red and black cyber divider"/>
+</div>
 
 ## `> featured_projects`
 <table><tr><td width="50%">
@@ -79,7 +91,11 @@ Full-stack e-commerce platform focused on local businesses.
 
 </td></tr></table>
 
----
+<div align="center">
+  <img src="./assets/red-black-flow-divider-fast.svg"
+       width="100%"
+       alt="Animated red and black cyber divider"/>
+</div>
 
 ## `> what_i_build`
 ```text
@@ -90,7 +106,11 @@ Full-stack e-commerce platform focused on local businesses.
 [05] Developer tools & experiments
 ```
 
----
+<div align="center">
+  <img src="./assets/red-black-flow-divider-fast.svg"
+       width="100%"
+       alt="Animated red and black cyber divider"/>
+</div>
 
 ## `> github_activity`
 <div align="center">
@@ -100,7 +120,11 @@ Full-stack e-commerce platform focused on local businesses.
 <img src="https://streak-stats.demolab.com?user=KenKaneki23-ux&theme=dark&hide_border=true&background=00000000&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" width="70%"/>
 </div>
 
----
+<div align="center">
+  <img src="./assets/red-black-flow-divider-fast.svg"
+       width="100%"
+       alt="Animated red and black cyber divider"/>
+</div>
 
 ## `> current_status`
 ```text
@@ -112,7 +136,11 @@ Full-stack e-commerce platform focused on local businesses.
 > turning ideas into reality
 ```
 
----
+<div align="center">
+  <img src="./assets/red-black-flow-divider-fast.svg"
+       width="100%"
+       alt="Animated red and black cyber divider"/>
+</div>
 
 <div align="center">
 
