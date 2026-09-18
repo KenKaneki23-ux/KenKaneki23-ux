@@ -1,12 +1,23 @@
 <div align="center">
-<img src="./assets/matrix-rain-banner.svg" alt="Tushar Das Matrix Hacker Banner" width="100%"/>
+
+<img src="./assets/matrix-rain-banner-fixed.svg"
+     alt="Matrix rain"
+     width="100%"/>
+
+# `TUSHAR DAS`_
 
 ### `FULL-STACK DEVELOPER • AI/ML BUILDER • PROBLEM SOLVER`
 
 > `root@tushar:~$` **I build practical software that turns real-world problems into working products.**
 
-<a href="https://github.com/KenKaneki23-ux"><img src="https://img.shields.io/badge/GITHUB-00ff88?style=for-the-badge&logo=github&logoColor=black" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-00ff88?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+<a href="https://github.com/KenKaneki23-ux">
+<img src="https://img.shields.io/badge/GITHUB-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-00ff88?style=for-the-badge&logo=linkedin&logoColor=black"/>
+</a>
+
 </div>
 
 ---
