@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/matrix.svg" alt="Tushar Das Matrix Hacker Banner" width="100%"/>
+<img src="./assets/matrix-rain-banner.svg" alt="Tushar Das Matrix Hacker Banner" width="100%"/>
 
 ### `FULL-STACK DEVELOPER • AI/ML BUILDER • PROBLEM SOLVER`
 
